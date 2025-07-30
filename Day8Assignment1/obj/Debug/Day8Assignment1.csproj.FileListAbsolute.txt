@@ -1,0 +1,6 @@
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\bin\Debug\Day8Assignment1.dll
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\bin\Debug\Day8Assignment1.pdb
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\obj\Debug\Day8Assignment1.csproj.AssemblyReference.cache
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\obj\Debug\Day8Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\obj\Debug\Day8Assignment1.dll
+C:\Users\pc\source\Day8Assignment1\Day8Assignment1\obj\Debug\Day8Assignment1.pdb
