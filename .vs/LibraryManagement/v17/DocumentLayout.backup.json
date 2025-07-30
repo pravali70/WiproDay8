@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D27929-FEED-4E4F-845B-2AA04688B8C4}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|c:\\users\\pc\\source\\librarymanagement\\librarymanagement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D27929-FEED-4E4F-845B-2AA04688B8C4}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|solutionrelative:librarymanagement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D27929-FEED-4E4F-845B-2AA04688B8C4}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|c:\\users\\pc\\source\\librarymanagement\\librarymanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D27929-FEED-4E4F-845B-2AA04688B8C4}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|solutionrelative:librarymanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\pc\\source\\librarymanagement\\librarymanagement\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\pc\\source\\librarymanagement\\librarymanagement\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\pc\\source\\librarymanagement\\librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B4333F-2514-4DBA-8419-BFC6E727DEEA}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement.Tests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Tests\\LibraryTests.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement.Tests\\LibraryTests.cs",
+              "RelativeToolTip": "LibraryManagement.Tests\\LibraryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:27:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "LibraryManagement.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:26:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Library.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Library.cs",
+              "RelativeToolTip": "LibraryManagement\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:25:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Borrower.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagement\\Borrower.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:23:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\LibraryManagement\\LibraryManagement\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:22:12.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
